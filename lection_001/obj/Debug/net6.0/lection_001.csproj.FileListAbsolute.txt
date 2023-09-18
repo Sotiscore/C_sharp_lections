@@ -1,0 +1,15 @@
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\bin\Debug\net6.0\lection_001.exe
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\bin\Debug\net6.0\lection_001.deps.json
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\bin\Debug\net6.0\lection_001.runtimeconfig.json
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\bin\Debug\net6.0\lection_001.dll
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\bin\Debug\net6.0\lection_001.pdb
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.csproj.AssemblyReference.cache
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.AssemblyInfoInputs.cache
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.AssemblyInfo.cs
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.csproj.CoreCompileInputs.cache
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.dll
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\refint\lection_001.dll
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.pdb
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\lection_001.genruntimeconfig.cache
+C:\Users\Sotiscore\Desktop\GeekBrains\!3. C#\lections\lection_001\obj\Debug\net6.0\ref\lection_001.dll
